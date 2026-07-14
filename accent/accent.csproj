@@ -7,7 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>voecho</AssemblyName>
-    <ApplicationIcon>fuck.ico</ApplicationIcon>
+    <ApplicationIcon>voecho.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
