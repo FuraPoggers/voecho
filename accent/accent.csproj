@@ -11,7 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="fuck.ico" />
+    <Content Include="voecho.ico" />
   </ItemGroup>
 
   <ItemGroup>
